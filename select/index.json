@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "88",
+  "base_artist": "YOUNG GAGA GG DIOR",
+  "createdAt": "2025-12-01T15:06:42.539470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Uneasy Rider '88",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/01_Uneasy_Rider_'88_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Is ja gut jetzt - 88 BPM",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/02_Is_ja_gut_jetzt_-_88_BPM_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "'88 aka Come Down on Me",
+      "artist": "Lemon Jelly",
+      "has_synced": true,
+      "path": "select/03_'88_aka_Come_Down_on_Me_Lemon_Jelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "88 Ways",
+      "artist": "Mia Doi Todd",
+      "has_synced": false,
+      "path": "select/04_88_Ways_Mia_Doi_Todd.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Retro 88",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/05_Retro_88_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "88 Lines about 44 Women",
+      "artist": "The Nails",
+      "has_synced": false,
+      "path": "select/06_88_Lines_about_44_Women_The_Nails.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "88 Lines About 44 Women 2",
+      "artist": "The Nails",
+      "has_synced": false,
+      "path": "select/07_88_Lines_About_44_Women_2_The_Nails.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Charlotte the Harlot '88",
+      "artist": "Iron Maiden",
+      "has_synced": false,
+      "path": "select/08_Charlotte_the_Harlot_'88_Iron_Maiden.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fake 88",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/09_Fake_88_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Latitude 88 North",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/10_Latitude_88_North_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "4. Latitude 88 North",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/11_4._Latitude_88_North_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dragnet '88 (From the Motion Picture)",
+      "artist": "Art of Noise",
+      "has_synced": false,
+      "path": "select/12_Dragnet_'88_(From_the_Motion_Picture)_Art_of_Noise.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "XXX 88",
+      "artist": "MØ feat Diplo",
+      "has_synced": true,
+      "path": "select/13_XXX_88_MØ_feat_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "XXX 88",
+      "artist": "MØ",
+      "has_synced": true,
+      "path": "select/14_XXX_88_MØ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "XXX 88",
+      "artist": "MØ feat. Diplo",
+      "has_synced": true,
+      "path": "select/15_XXX_88_MØ_feat._Diplo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "XXX 88 (Feat. Diplo)",
+      "artist": "Mø",
+      "has_synced": true,
+      "path": "select/16_XXX_88_(Feat._Diplo)_Mø.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "88",
+      "artist": "The Cool Kids",
+      "has_synced": true,
+      "path": "select/17_88_The_Cool_Kids.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "880～EiEiO!!!!!!!! feat.古坂大魔王",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_01_880~EiEiO!!!!!!!!_feat.古坂大魔王_mihimaru_GT.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "88",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_02_88_mihimaru_GT.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "88R",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_03_88R_mihimaru_GT.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "88",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_04_88_mihimaru_GT.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "88",
+      "artist": "mihimaru GT",
+      "has_synced": false,
+      "path": "select/pl_05_88_mihimaru_GT.txt"
+    }
+  ]
+}
